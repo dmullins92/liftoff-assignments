@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Liftoff Recipe Tracker Wireframes] (https://github.com/dmullins92/liftoff-assignments/blob/f15ebe93c591249808104a01b5706e1b7063cd5b/P3-Project_Planning/Liftoff%20Wireframes.pdf)
 
 ### Project Tracker
 
